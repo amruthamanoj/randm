@@ -425,32 +425,17 @@ it, please enter the types and the actual numbers or codes below.</hint>
  <form-value-pairs>
    <value-pairs value-pairs-name="common_identifiers" dc-term="identifier">
      <pair>
-       <displayed-value>ISSN</displayed-value>
-       <stored-value>issn</stored-value>
+       <displayed-value>Thesis Number</displayed-value>
+       <stored-value>thno</stored-value>
      </pair>
      <pair>
-       <displayed-value>Other</displayed-value>
-       <stored-value>other</stored-value>
+       <displayed-value>Student Roll Number</displayed-value>
+       <stored-value>srno</stored-value>
      </pair>
-     <pair>
-       <displayed-value>ISMN</displayed-value>
-       <stored-value>ismn</stored-value>
-     </pair>
-     <pair>
-       <displayed-value>Gov't Doc #</displayed-value>
-       <stored-value>govdoc</stored-value>
-     </pair>
-     <pair>
-       <displayed-value>URI</displayed-value>
-       <stored-value>uri</stored-value>
-     </pair>
-     <pair>
-       <displayed-value>ISBN</displayed-value>
-       <stored-value>isbn</stored-value>
-     </pair>
+     
    </value-pairs>
    
-    <form-value-pairs>
+    
    <value-pairs value-pairs-name="common_courses" dc-term="course">
      <pair>
        <displayed-value>MS</displayed-value>
@@ -468,7 +453,7 @@ it, please enter the types and the actual numbers or codes below.</hint>
        <displayed-value>M.Phil</displayed-value>
        <stored-value>mphil</stored-value>
      </pair>
-     <pair>
+   
        
    </value-pairs>
 
